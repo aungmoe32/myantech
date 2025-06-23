@@ -2,6 +2,8 @@
 
 A comprehensive React-based e-commerce management system for MyanTech that handles the complete lifecycle of retail operations, from customer orders through delivery management.
 
+Demo Video : https://youtu.be/yrzfl9UrwCo?si=fvXEvkRfsl4-X5NL
+
 ## 🚀 Features
 
 ### Customer Portal
