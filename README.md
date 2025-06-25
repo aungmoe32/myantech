@@ -2,6 +2,7 @@
 
 A comprehensive React-based e-commerce management system for MyanTech that handles the complete lifecycle of retail operations, from customer orders through delivery management.
 
+Demo : https://kyaone-frontend-lbad.vercel.app
 Demo Video : https://youtu.be/yrzfl9UrwCo?si=fvXEvkRfsl4-X5NL
 
 ## 🚀 Features
